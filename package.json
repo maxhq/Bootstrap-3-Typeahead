@@ -31,9 +31,6 @@
     "grunt-jscs": "~0.8.1",
     "load-grunt-tasks": "~0.6.0"
   },
-  "engines": {
-    "node": "~0.10.1"
-  },
   "dependencies": {
     "uglify-js": "^3.3.7"
   }
